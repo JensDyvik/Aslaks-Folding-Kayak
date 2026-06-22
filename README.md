@@ -1,9 +1,10 @@
 # Aslags Folding Kayak
-Design improvements and contributions to a kayakk that can be folded from a singele sheet of PP
+Design improvements and contributions to a kayakk that can be folded from a singele sheet of PP. Invented by Aslak, expanded by Jakob Nilsson and Jens Dyvik.
+*June 2026*
 
 ### To do:
-- Change all spelling of inventors name from Aslak to Aslag
-- Add invenstors surname to doku
+- Change all spelling of the inventors name from Aslak to Aslag
+- Add inventors surname to doku
 - Add pics
 - Add description
 - Add list of of design contributions / improvements
